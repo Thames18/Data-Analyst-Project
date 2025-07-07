@@ -19,3 +19,6 @@ Saves to SQLite (customers.db)
 Runs a simple SQL GROUP BY query
 
 Plots a histogram of ages
+
+![image](https://github.com/user-attachments/assets/97eafdd0-65f6-4152-9d30-ca5dea083b90)
+
