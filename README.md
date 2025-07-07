@@ -6,18 +6,10 @@ This is a simple starter project for Data Analysts to practice:
 - Querying data with **SQL**
 - Visualizing results with **Matplotlib**
 
-Structure
-data-analyst-project/
-├── data/ # CSV data samples
-├── analysis/ # Python analysis scripts
-├── sql/ # SQL queries for SQLite
-├── .gitignore # Ignore db & Python cache
-├── requirements.txt # Python dependencies
-├── LICENSE # Open source license
-└── README.md # This file
 
-What it does
-Loads customers.csv
+
+**What it does
+**Loads customers.csv
 
 Computes simple stats (average age)
 
