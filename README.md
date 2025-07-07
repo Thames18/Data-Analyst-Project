@@ -8,8 +8,9 @@ This is a simple starter project for Data Analysts to practice:
 
 
 
-**What it does
-**Loads customers.csv
+What it does:
+
+Loads customers.csv
 
 Computes simple stats (average age)
 
